@@ -1,1 +1,11 @@
-<iframe src="https://giphy.com/embed/TNf5oSRelTeI8" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TNf5oSRelTeI8">via GIPHY</a></p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/gowtham-sharoon/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/OutLook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Outlook Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
+  </a>
+</div>
