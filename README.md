@@ -40,8 +40,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gowtham-sharoon&theme=dark&background=000000)] (https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gowtham-sharoon&theme=dark&background=000000)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-sharoon)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-sharoon&layout=compact&theme=vision-friendly-dark)]
 
