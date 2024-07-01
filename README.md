@@ -47,17 +47,14 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### :writing_hand: Blog Posts :
-* [Your Blog Post 1](#)
-* [Your Blog Post 2](#)
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/gowtham-sharoon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:gowthamsharoon@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
+  <a href="https://x.com/Gowtham_Sharoon">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
   </a>
 </div>
